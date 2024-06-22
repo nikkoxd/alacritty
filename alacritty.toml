@@ -16,6 +16,5 @@ decorations = "transparent"
 option_as_alt = "Both"
 
 [font]
-normal.family = "GeistMono Nerd Font"
-normal.style = "Light"
+normal.family = "FantasqueSansM Nerd Font"
 size = 18
