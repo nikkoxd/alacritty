@@ -1,5 +1,6 @@
 import = [
   "~/.cache/wal/colors-alacritty.toml"
+  # "~/.config/alacritty/themes/rose-pine.toml",
 ]
 
 [env]
@@ -12,7 +13,7 @@ padding.y = 30
 decorations = "transparent"
 
 opacity = 0.9
-blur = false
+# blur = true
 
 option_as_alt = "Both"
 
